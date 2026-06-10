@@ -54,7 +54,8 @@ header{
 }
 
 .nav-search{
-    display: flex;
+    display:flex;
+    justify-content: space-evenly;
     height: 40px;
     margin: 10px 4px 10px 3px;
 }
